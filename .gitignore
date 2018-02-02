@@ -1,0 +1,10 @@
+.DS_Store
+
+*.3dmbak
+*.rhl
+*.tmp
+
+/tmp/
+/[TMP]/
+/[Tt]emp/
+/[TEMP]/
